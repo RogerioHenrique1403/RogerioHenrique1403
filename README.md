@@ -1,4 +1,4 @@
-## olá, me chamo Rogério Henrique
+## Olá, me chamo Rogério Henrique
 
 - 🌱 Estudo python 
 - 💬 contate-me no email: rogerioh0911@gmail.com
