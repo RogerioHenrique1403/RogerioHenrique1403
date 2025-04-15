@@ -1,16 +1,13 @@
-## Hi there 👋
+## olá, me chamo Rogério Henrique
 
-<!--
-**RogerioHenrique1403/RogerioHenrique1403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Estudo python 
+- 💬 contate-me no email: rogerioh0911@gmail.com
+- 😄 Pronome: ele/dele
 
-Here are some ideas to get you started:
+   <div>
+  <a href="https://github.com/RogerioHenrique1403">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RogerioHenrique1403&show_icons=false&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RogerioHenrique1403&layout=compact&langs_count=16&theme=dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
